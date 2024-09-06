@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niannik
 - 👀 I’m interested in BackEnd Developing
-- 🌱 I’m currently learning ASP.Net Core
+- 🌱 I’m ASP.Net Core Programmer
 - 📫 How to reach me ...
 
 <!---
